@@ -1,0 +1,767 @@
+company_id,peer_group,metric,value,percentile_rank,year
+BAJAJ-AUTO,Automobiles,net_profit_margin_pct,17.178515712057056,85.71,2024.0
+EICHERMOT,Automobiles,net_profit_margin_pct,24.19569424286405,100.0,2024.0
+HEROMOTOCO,Automobiles,net_profit_margin_pct,9.902352536452408,71.43,2024.0
+M&M,Automobiles,net_profit_margin_pct,8.82238743726542,42.86,2024.0
+MARUTI,Automobiles,net_profit_margin_pct,9.50809964894472,57.14,2024.0
+TATAMOTORS,Automobiles,net_profit_margin_pct,7.263066074788551,28.57,2024.0
+TVSMOTOR,Automobiles,net_profit_margin_pct,4.544641716694342,14.29,2024.0
+BAJAJ-AUTO,Automobiles,operating_profit_margin_pct,19.53420993982616,71.43,2024.0
+EICHERMOT,Automobiles,operating_profit_margin_pct,26.179245283018872,85.71,2024.0
+HEROMOTOCO,Automobiles,operating_profit_margin_pct,86.14676228532112,100.0,2024.0
+M&M,Automobiles,operating_profit_margin_pct,17.89787025985418,57.14,2024.0
+MARUTI,Automobiles,operating_profit_margin_pct,13.130031439890594,14.29,2024.0
+TATAMOTORS,Automobiles,operating_profit_margin_pct,13.59538554282896,28.57,2024.0
+TVSMOTOR,Automobiles,operating_profit_margin_pct,14.050325712096054,42.86,2024.0
+BAJAJ-AUTO,Automobiles,return_on_equity_pct,24.881371251492947,85.71,2024.0
+EICHERMOT,Automobiles,return_on_equity_pct,21.081195005005533,57.14,2024.0
+HEROMOTOCO,Automobiles,return_on_equity_pct,19.683341223502183,42.86,2024.0
+M&M,Automobiles,return_on_equity_pct,17.40376159541573,28.57,2024.0
+MARUTI,Automobiles,return_on_equity_pct,15.133631039202928,14.29,2024.0
+TATAMOTORS,Automobiles,return_on_equity_pct,31.472759296273573,100.0,2024.0
+TVSMOTOR,Automobiles,return_on_equity_pct,22.92525773195876,71.43,2024.0
+BAJAJ-AUTO,Automobiles,return_on_assets_pct,16.81427511888661,100.0,2024.0
+EICHERMOT,Automobiles,return_on_assets_pct,16.410992616899097,85.71,2024.0
+HEROMOTOCO,Automobiles,return_on_assets_pct,12.788353097980243,71.43,2024.0
+M&M,Automobiles,return_on_assets_pct,4.806486994672516,28.57,2024.0
+MARUTI,Automobiles,return_on_assets_pct,11.083355245858533,57.14,2024.0
+TATAMOTORS,Automobiles,return_on_assets_pct,8.141945855176932,42.86,2024.0
+TVSMOTOR,Automobiles,return_on_assets_pct,3.9580830329729007,14.29,2024.0
+BAJAJ-AUTO,Automobiles,return_on_capital_employed_pct,23.18904593639576,85.71,2024.0
+EICHERMOT,Automobiles,return_on_capital_employed_pct,19.24882629107981,57.14,2024.0
+HEROMOTOCO,Automobiles,return_on_capital_employed_pct,162.23786927904484,100.0,2024.0
+M&M,Automobiles,return_on_capital_employed_pct,10.76510840903996,14.29,2024.0
+MARUTI,Automobiles,return_on_capital_employed_pct,14.974687514000268,28.57,2024.0
+TATAMOTORS,Automobiles,return_on_capital_employed_pct,15.542529056745549,42.86,2024.0
+TVSMOTOR,Automobiles,return_on_capital_employed_pct,20.21984896554806,71.43,2024.0
+BAJAJ-AUTO,Automobiles,debt_to_equity,0.1693082410665289,57.14,2024.0
+EICHERMOT,Automobiles,debt_to_equity,0.0212866852837346,28.57,2024.0
+HEROMOTOCO,Automobiles,debt_to_equity,0.0309294618904844,42.86,2024.0
+M&M,Automobiles,debt_to_equity,1.6573146861081955,85.71,2024.0
+MARUTI,Automobiles,debt_to_equity,0.0017727711330027,14.29,2024.0
+TATAMOTORS,Automobiles,debt_to_equity,1.0542934040489995,71.43,2024.0
+TVSMOTOR,Automobiles,debt_to_equity,1.88389175257732,100.0,2024.0
+BAJAJ-AUTO,Automobiles,interest_coverage,174.41666666666666,100.0,2024.0
+EICHERMOT,Automobiles,interest_coverage,114.70588235294116,71.43,2024.0
+HEROMOTOCO,Automobiles,interest_coverage,47.26850507982584,57.14,2024.0
+M&M,Automobiles,interest_coverage,3.7646901709401703,28.57,2024.0
+MARUTI,Automobiles,interest_coverage,117.90721649484536,85.71,2024.0
+TATAMOTORS,Automobiles,interest_coverage,6.530242339274985,42.86,2024.0
+TVSMOTOR,Automobiles,interest_coverage,2.9076763485477177,14.29,2024.0
+BAJAJ-AUTO,Automobiles,asset_turnover,0.978796736617076,57.14,2024.0
+EICHERMOT,Automobiles,asset_turnover,0.6782608695652174,28.57,2024.0
+HEROMOTOCO,Automobiles,asset_turnover,1.291445951949694,100.0,2024.0
+M&M,Automobiles,asset_turnover,0.5448057035412096,14.29,2024.0
+MARUTI,Automobiles,asset_turnover,1.1656751249013937,85.71,2024.0
+TATAMOTORS,Automobiles,asset_turnover,1.1210067169069462,71.43,2024.0
+TVSMOTOR,Automobiles,asset_turnover,0.8709340097005295,42.86,2024.0
+BAJAJ-AUTO,Automobiles,free_cash_flow_cr,6486.0,85.71,2024.0
+EICHERMOT,Automobiles,free_cash_flow_cr,890.0,42.86,2024.0
+HEROMOTOCO,Automobiles,free_cash_flow_cr,3095.0,57.14,2024.0
+M&M,Automobiles,free_cash_flow_cr,-11245.0,14.29,2024.0
+MARUTI,Automobiles,free_cash_flow_cr,4936.0,71.43,2024.0
+TATAMOTORS,Automobiles,free_cash_flow_cr,45133.0,100.0,2024.0
+TVSMOTOR,Automobiles,free_cash_flow_cr,-2254.0,28.57,2024.0
+BAJAJ-AUTO,Automobiles,revenue_cagr_5y_pct,8.127604751021389,57.14,2024.0
+EICHERMOT,Automobiles,revenue_cagr_5y_pct,11.036936496739692,85.71,2024.0
+HEROMOTOCO,Automobiles,revenue_cagr_5y_pct,2.1530677970544643,14.29,2024.0
+M&M,Automobiles,revenue_cagr_5y_pct,5.838805854237616,28.57,2024.0
+MARUTI,Automobiles,revenue_cagr_5y_pct,10.510215112642584,71.43,2024.0
+TATAMOTORS,Automobiles,revenue_cagr_5y_pct,7.720159538623927,42.86,2024.0
+TVSMOTOR,Automobiles,revenue_cagr_5y_pct,14.192387704277063,100.0,2024.0
+BAJAJ-AUTO,Automobiles,pat_cagr_5y_pct,9.358917170384974,33.33,2024.0
+EICHERMOT,Automobiles,pat_cagr_5y_pct,12.675841665377696,66.67,2024.0
+HEROMOTOCO,Automobiles,pat_cagr_5y_pct,1.5441818871883894,16.67,2024.0
+M&M,Automobiles,pat_cagr_5y_pct,15.316887061047968,83.33,2024.0
+MARUTI,Automobiles,pat_cagr_5y_pct,12.007182039300378,50.0,2024.0
+TVSMOTOR,Automobiles,pat_cagr_5y_pct,19.665122106676503,100.0,2024.0
+BAJAJ-AUTO,Automobiles,earnings_per_share,276.0,85.71,2024.0
+EICHERMOT,Automobiles,earnings_per_share,146.0,57.14,2024.0
+HEROMOTOCO,Automobiles,earnings_per_share,187.0,71.43,2024.0
+M&M,Automobiles,earnings_per_share,91.0,28.57,2024.0
+MARUTI,Automobiles,earnings_per_share,429.0,100.0,2024.0
+TATAMOTORS,Automobiles,earnings_per_share,94.0,42.86,2024.0
+TVSMOTOR,Automobiles,earnings_per_share,36.0,14.29,2024.0
+BAJAJ-AUTO,Automobiles,book_value_per_share_proxy,111.0358422939068,14.29,2024.0
+EICHERMOT,Automobiles,book_value_per_share_proxy,702.925925925926,100.0,2024.0
+HEROMOTOCO,Automobiles,book_value_per_share_proxy,475.275,71.43,2024.0
+M&M,Automobiles,book_value_per_share_proxy,126.34767025089606,28.57,2024.0
+MARUTI,Automobiles,book_value_per_share_proxy,567.6815286624204,85.71,2024.0
+TATAMOTORS,Automobiles,book_value_per_share_proxy,137.3125,42.86,2024.0
+TVSMOTOR,Automobiles,book_value_per_share_proxy,161.66666666666666,57.14,2024.0
+BAJAJ-AUTO,Automobiles,dividend_payout_ratio_pct,29.0,64.29,2024.0
+EICHERMOT,Automobiles,dividend_payout_ratio_pct,35.0,85.71,2024.0
+HEROMOTOCO,Automobiles,dividend_payout_ratio_pct,75.0,100.0,2024.0
+M&M,Automobiles,dividend_payout_ratio_pct,21.0,28.57,2024.0
+MARUTI,Automobiles,dividend_payout_ratio_pct,29.0,64.29,2024.0
+TATAMOTORS,Automobiles,dividend_payout_ratio_pct,7.0,14.29,2024.0
+TVSMOTOR,Automobiles,dividend_payout_ratio_pct,23.0,42.86,2024.0
+BAJFINANCE,Consumer Finance,net_profit_margin_pct,26.287928399912687,100.0,2024.0
+CHOLAFIN,Consumer Finance,net_profit_margin_pct,17.846892448990243,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,net_profit_margin_pct,20.333626470264925,66.67,2024.0
+BAJFINANCE,Consumer Finance,operating_profit_margin_pct,29.28581823473769,100.0,2024.0
+CHOLAFIN,Consumer Finance,operating_profit_margin_pct,28.10102802275218,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,operating_profit_margin_pct,28.918874354182694,66.67,2024.0
+BAJFINANCE,Consumer Finance,return_on_equity_pct,16.648042118359964,100.0,2024.0
+CHOLAFIN,Consumer Finance,return_on_equity_pct,15.973097940311051,66.67,2024.0
+SHRIRAMFIN,Consumer Finance,return_on_equity_pct,14.122385096961368,33.33,2024.0
+BAJFINANCE,Consumer Finance,return_on_assets_pct,3.4353485983796737,100.0,2024.0
+CHOLAFIN,Consumer Finance,return_on_assets_pct,1.879688916980406,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,return_on_assets_pct,2.6896945330022866,66.67,2024.0
+BAJFINANCE,Consumer Finance,return_on_capital_employed_pct,3.7506599419494377,66.67,2024.0
+CHOLAFIN,Consumer Finance,return_on_capital_employed_pct,2.8920458980563577,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,return_on_capital_employed_pct,3.818040674526925,100.0,2024.0
+BAJFINANCE,Consumer Finance,debt_to_equity,3.735101321382901,33.33,2024.0
+CHOLAFIN,Consumer Finance,debt_to_equity,7.376722245574705,100.0,2024.0
+SHRIRAMFIN,Consumer Finance,debt_to_equity,3.966636127653077,66.67,2024.0
+BAJFINANCE,Consumer Finance,interest_coverage,2689.1666666666665,100.0,2024.0
+CHOLAFIN,Consumer Finance,interest_coverage,21.211764705882352,66.67,2024.0
+SHRIRAMFIN,Consumer Finance,interest_coverage,0.6766743648960739,33.33,2024.0
+BAJFINANCE,Consumer Finance,asset_turnover,0.1306816020691491,66.67,2024.0
+CHOLAFIN,Consumer Finance,asset_turnover,0.1053230371815658,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,asset_turnover,0.1322781520028209,100.0,2024.0
+BAJFINANCE,Consumer Finance,free_cash_flow_cr,-79931.0,33.33,2024.0
+CHOLAFIN,Consumer Finance,free_cash_flow_cr,-38538.0,66.67,2024.0
+SHRIRAMFIN,Consumer Finance,free_cash_flow_cr,-31359.0,100.0,2024.0
+BAJFINANCE,Consumer Finance,revenue_cagr_5y_pct,24.35264273954201,100.0,2024.0
+CHOLAFIN,Consumer Finance,revenue_cagr_5y_pct,21.939164804975263,66.67,2024.0
+SHRIRAMFIN,Consumer Finance,revenue_cagr_5y_pct,18.556070052776757,33.33,2024.0
+BAJFINANCE,Consumer Finance,pat_cagr_5y_pct,29.32313482597901,100.0,2024.0
+CHOLAFIN,Consumer Finance,pat_cagr_5y_pct,23.36341725167208,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,pat_cagr_5y_pct,23.49387942502037,66.67,2024.0
+BAJFINANCE,Consumer Finance,earnings_per_share,233.0,100.0,2024.0
+CHOLAFIN,Consumer Finance,earnings_per_share,41.0,66.67,2024.0
+SHRIRAMFIN,Consumer Finance,earnings_per_share,39.0,33.33,2024.0
+BAJFINANCE,Consumer Finance,book_value_per_share_proxy,700.0241935483871,100.0,2024.0
+CHOLAFIN,Consumer Finance,book_value_per_share_proxy,127.44642857142856,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,book_value_per_share_proxy,139.3404255319149,66.67,2024.0
+BAJFINANCE,Consumer Finance,dividend_payout_ratio_pct,15.0,66.67,2024.0
+CHOLAFIN,Consumer Finance,dividend_payout_ratio_pct,5.0,33.33,2024.0
+SHRIRAMFIN,Consumer Finance,dividend_payout_ratio_pct,23.0,100.0,2024.0
+BRITANNIA,FMCG,net_profit_margin_pct,12.725863199952292,42.86,2024.0
+DABUR,FMCG,net_profit_margin_pct,14.600128990648178,57.14,2024.0
+GODREJCP,FMCG,net_profit_margin_pct,-3.979852440408626,14.29,2024.0
+HINDUNILVR,FMCG,net_profit_margin_pct,16.611735814915342,85.71,2024.0
+ITC,FMCG,net_profit_margin_pct,29.282025230717128,100.0,2024.0
+NESTLEIND,FMCG,net_profit_margin_pct,16.12281708616873,71.43,2024.0
+TATACONSUM,FMCG,net_profit_margin_pct,7.990266999868472,28.57,2024.0
+BRITANNIA,FMCG,operating_profit_margin_pct,18.88603971614288,28.57,2024.0
+DABUR,FMCG,operating_profit_margin_pct,19.348597226701063,42.86,2024.0
+GODREJCP,FMCG,operating_profit_margin_pct,20.97758229284904,57.14,2024.0
+HINDUNILVR,FMCG,operating_profit_margin_pct,76.31672482874498,100.0,2024.0
+ITC,FMCG,operating_profit_margin_pct,37.0177518132814,85.71,2024.0
+NESTLEIND,FMCG,operating_profit_margin_pct,23.829630236943512,71.43,2024.0
+TATACONSUM,FMCG,operating_profit_margin_pct,15.020386689464685,14.29,2024.0
+BRITANNIA,FMCG,return_on_equity_pct,66.47975077881621,85.71,2024.0
+DABUR,FMCG,return_on_equity_pct,17.477320980505695,42.86,2024.0
+GODREJCP,FMCG,return_on_equity_pct,-4.609695973705834,14.29,2024.0
+HINDUNILVR,FMCG,return_on_equity_pct,20.249724279187017,57.14,2024.0
+ITC,FMCG,return_on_equity_pct,27.57021762814551,71.43,2024.0
+NESTLEIND,FMCG,return_on_equity_pct,98.57142857142858,100.0,2024.0
+TATACONSUM,FMCG,return_on_equity_pct,6.350616767719004,28.57,2024.0
+BRITANNIA,FMCG,return_on_assets_pct,22.54145980775325,85.71,2024.0
+DABUR,FMCG,return_on_assets_pct,11.06089293348806,42.86,2024.0
+GODREJCP,FMCG,return_on_assets_pct,-2.9551201011378003,14.29,2024.0
+HINDUNILVR,FMCG,return_on_assets_pct,12.73076208753792,57.14,2024.0
+ITC,FMCG,return_on_assets_pct,22.05887042765571,71.43,2024.0
+NESTLEIND,FMCG,return_on_assets_pct,35.406913935902054,100.0,2024.0
+TATACONSUM,FMCG,return_on_assets_pct,3.9231514368743943,28.57,2024.0
+BRITANNIA,FMCG,return_on_capital_employed_pct,48.071763916834335,71.43,2024.0
+DABUR,FMCG,return_on_capital_employed_pct,16.518078256562653,28.57,2024.0
+GODREJCP,FMCG,return_on_capital_employed_pct,16.977122140267532,42.86,2024.0
+HINDUNILVR,FMCG,return_on_capital_employed_pct,87.78110515574036,85.71,2024.0
+ITC,FMCG,return_on_capital_employed_pct,32.310440651052005,57.14,2024.0
+NESTLEIND,FMCG,return_on_capital_employed_pct,120.98623853211012,100.0,2024.0
+TATACONSUM,FMCG,return_on_capital_employed_pct,8.634038121972202,14.29,2024.0
+BRITANNIA,FMCG,debt_to_equity,0.8579439252336448,100.0,2024.0
+DABUR,FMCG,debt_to_equity,0.1690793283149971,71.43,2024.0
+GODREJCP,FMCG,debt_to_equity,0.314543960558751,85.71,2024.0
+HINDUNILVR,FMCG,debt_to_equity,0.0325153615881518,28.57,2024.0
+ITC,FMCG,debt_to_equity,0.0040390083171684,14.29,2024.0
+NESTLEIND,FMCG,debt_to_equity,0.0927318295739348,42.86,2024.0
+TATACONSUM,FMCG,debt_to_equity,0.1544532720050177,57.14,2024.0
+BRITANNIA,FMCG,interest_coverage,20.59756097560976,28.57,2024.0
+DABUR,FMCG,interest_coverage,23.241935483870968,42.86,2024.0
+GODREJCP,FMCG,interest_coverage,2.412903225806452,14.29,2024.0
+HINDUNILVR,FMCG,interest_coverage,57.847001223990205,85.71,2024.0
+ITC,FMCG,interest_coverage,362.9625,100.0,2024.0
+NESTLEIND,FMCG,interest_coverage,41.18620689655173,71.43,2024.0
+TATACONSUM,FMCG,interest_coverage,25.32183908045977,57.14,2024.0
+BRITANNIA,FMCG,asset_turnover,1.7713108693355868,85.71,2024.0
+DABUR,FMCG,asset_turnover,0.7575887131252672,57.14,2024.0
+GODREJCP,FMCG,asset_turnover,0.7425200168563001,28.57,2024.0
+HINDUNILVR,FMCG,asset_turnover,0.7663715718442394,71.43,2024.0
+ITC,FMCG,asset_turnover,0.7533246165130593,42.86,2024.0
+NESTLEIND,FMCG,asset_turnover,2.196074900972272,100.0,2024.0
+TATACONSUM,FMCG,asset_turnover,0.4909912818856958,14.29,2024.0
+BRITANNIA,FMCG,free_cash_flow_cr,3050.0,71.43,2024.0
+DABUR,FMCG,free_cash_flow_cr,1042.0,42.86,2024.0
+GODREJCP,FMCG,free_cash_flow_cr,-1365.0,14.29,2024.0
+HINDUNILVR,FMCG,free_cash_flow_cr,10145.0,85.71,2024.0
+ITC,FMCG,free_cash_flow_cr,18742.0,100.0,2024.0
+NESTLEIND,FMCG,free_cash_flow_cr,2938.0,57.14,2024.0
+TATACONSUM,FMCG,free_cash_flow_cr,26.0,28.57,2024.0
+BRITANNIA,FMCG,revenue_cagr_5y_pct,8.690023727476138,57.14,2024.0
+DABUR,FMCG,revenue_cagr_5y_pct,7.814065037783324,28.57,2024.0
+GODREJCP,FMCG,revenue_cagr_5y_pct,6.447080048592069,14.29,2024.0
+HINDUNILVR,FMCG,revenue_cagr_5y_pct,9.504485244074123,71.43,2024.0
+ITC,FMCG,revenue_cagr_5y_pct,7.950896846254429,42.86,2024.0
+NESTLEIND,FMCG,revenue_cagr_5y_pct,14.548573711802671,85.71,2024.0
+TATACONSUM,FMCG,revenue_cagr_5y_pct,15.96086282879563,100.0,2024.0
+BRITANNIA,FMCG,pat_cagr_5y_pct,13.063515827454196,66.67,2024.0
+DABUR,FMCG,pat_cagr_5y_pct,4.604418961155621,16.67,2024.0
+HINDUNILVR,FMCG,pat_cagr_5y_pct,11.152950436803422,50.0,2024.0
+ITC,FMCG,pat_cagr_5y_pct,10.083407558317958,33.33,2024.0
+NESTLEIND,FMCG,pat_cagr_5y_pct,14.85231951299384,83.33,2024.0
+TATACONSUM,FMCG,pat_cagr_5y_pct,21.59956338772886,100.0,2024.0
+BRITANNIA,FMCG,earnings_per_share,89.0,100.0,2024.0
+DABUR,FMCG,earnings_per_share,10.0,28.57,2024.0
+GODREJCP,FMCG,earnings_per_share,-5.0,14.29,2024.0
+HINDUNILVR,FMCG,earnings_per_share,44.0,85.71,2024.0
+ITC,FMCG,earnings_per_share,16.0,57.14,2024.0
+NESTLEIND,FMCG,earnings_per_share,41.0,71.43,2024.0
+TATACONSUM,FMCG,earnings_per_share,12.0,42.86,2024.0
+BRITANNIA,FMCG,book_value_per_share_proxy,133.75,71.43,2024.0
+DABUR,FMCG,book_value_per_share_proxy,58.54237288135593,28.57,2024.0
+GODREJCP,FMCG,book_value_per_share_proxy,119.31372549019608,57.14,2024.0
+HINDUNILVR,FMCG,book_value_per_share_proxy,216.06808510638297,100.0,2024.0
+ITC,FMCG,book_value_per_share_proxy,60.16466826538769,42.86,2024.0
+NESTLEIND,FMCG,book_value_per_share_proxy,41.5625,14.29,2024.0
+TATACONSUM,FMCG,book_value_per_share_proxy,193.2525252525253,85.71,2024.0
+BRITANNIA,FMCG,dividend_payout_ratio_pct,83.0,66.67,2024.0
+DABUR,FMCG,dividend_payout_ratio_pct,53.0,16.67,2024.0
+HINDUNILVR,FMCG,dividend_payout_ratio_pct,96.0,100.0,2024.0
+ITC,FMCG,dividend_payout_ratio_pct,84.0,83.33,2024.0
+NESTLEIND,FMCG,dividend_payout_ratio_pct,79.0,50.0,2024.0
+TATACONSUM,FMCG,dividend_payout_ratio_pct,64.0,33.33,2024.0
+HCLTECH,IT Services,net_profit_margin_pct,14.293122742532727,60.0,2024.0
+INFY,IT Services,net_profit_margin_pct,17.08075746730006,80.0,2024.0
+LTIM,IT Services,net_profit_margin_pct,12.90931103415266,40.0,2024.0
+TCS,IT Services,net_profit_margin_pct,19.136712150207767,100.0,2024.0
+TECHM,IT Services,net_profit_margin_pct,4.60996999769213,20.0,2024.0
+HCLTECH,IT Services,operating_profit_margin_pct,22.015594151738192,60.0,2024.0
+INFY,IT Services,operating_profit_margin_pct,23.703390381987376,80.0,2024.0
+LTIM,IT Services,operating_profit_margin_pct,17.982937748120616,40.0,2024.0
+TCS,IT Services,operating_profit_margin_pct,26.69068839692312,100.0,2024.0
+TECHM,IT Services,operating_profit_margin_pct,8.666051234710363,20.0,2024.0
+HCLTECH,IT Services,return_on_equity_pct,22.809437386569872,60.0,2024.0
+INFY,IT Services,return_on_equity_pct,29.015177475874115,80.0,2024.0
+LTIM,IT Services,return_on_equity_pct,21.75563463819692,40.0,2024.0
+TCS,IT Services,return_on_equity_pct,45.4199714271639,100.0,2024.0
+TECHM,IT Services,return_on_equity_pct,9.063752552370868,20.0,2024.0
+HCLTECH,IT Services,return_on_assets_pct,15.747321151128174,40.0,2024.0
+INFY,IT Services,return_on_assets_pct,18.50144498484528,80.0,2024.0
+LTIM,IT Services,return_on_assets_pct,15.941726643718926,60.0,2024.0
+TCS,IT Services,return_on_assets_pct,28.61088354310965,100.0,2024.0
+TECHM,IT Services,return_on_assets_pct,5.596936512013449,20.0,2024.0
+HCLTECH,IT Services,return_on_capital_employed_pct,26.819435887820426,60.0,2024.0
+INFY,IT Services,return_on_capital_employed_pct,31.981423836723184,80.0,2024.0
+LTIM,IT Services,return_on_capital_employed_pct,23.793854963463097,40.0,2024.0
+TCS,IT Services,return_on_capital_employed_pct,53.65520485611673,100.0,2024.0
+TECHM,IT Services,return_on_capital_employed_pct,9.441381973947545,20.0,2024.0
+HCLTECH,IT Services,debt_to_equity,0.0840798548094373,40.0,2024.0
+INFY,IT Services,debt_to_equity,0.0973215568796082,80.0,2024.0
+LTIM,IT Services,debt_to_equity,0.110367734282325,100.0,2024.0
+TCS,IT Services,debt_to_equity,0.0891275432287304,60.0,2024.0
+TECHM,IT Services,debt_to_equity,0.0769492550858352,20.0,2024.0
+HCLTECH,IT Services,interest_coverage,46.46112115732369,60.0,2024.0
+INFY,IT Services,interest_coverage,87.52340425531915,100.0,2024.0
+LTIM,IT Services,interest_coverage,31.93243243243243,40.0,2024.0
+TCS,IT Services,interest_coverage,87.09511568123393,80.0,2024.0
+TECHM,IT Services,interest_coverage,13.85969387755102,20.0,2024.0
+HCLTECH,IT Services,asset_turnover,1.1017411264697332,40.0,2024.0
+INFY,IT Services,asset_turnover,1.0831747374356806,20.0,2024.0
+LTIM,IT Services,asset_turnover,1.2349014290184626,80.0,2024.0
+TCS,IT Services,asset_turnover,1.495078324768501,100.0,2024.0
+TECHM,IT Services,asset_turnover,1.214093912718612,60.0,2024.0
+HCLTECH,IT Services,free_cash_flow_cr,15840.0,60.0,2024.0
+INFY,IT Services,free_cash_flow_cr,20117.0,80.0,2024.0
+LTIM,IT Services,free_cash_flow_cr,1752.0,20.0,2024.0
+TCS,IT Services,free_cash_flow_cr,50429.0,100.0,2024.0
+TECHM,IT Services,free_cash_flow_cr,5058.0,40.0,2024.0
+HCLTECH,IT Services,revenue_cagr_5y_pct,12.710299978373406,60.0,2024.0
+INFY,IT Services,revenue_cagr_5y_pct,13.199100930556227,80.0,2024.0
+LTIM,IT Services,revenue_cagr_5y_pct,30.32798083513346,100.0,2024.0
+TCS,IT Services,revenue_cagr_5y_pct,10.463614801716602,40.0,2024.0
+TECHM,IT Services,revenue_cagr_5y_pct,8.398437919098868,20.0,2024.0
+HCLTECH,IT Services,pat_cagr_5y_pct,9.194090295112025,60.0,2024.0
+INFY,IT Services,pat_cagr_5y_pct,11.23941998365794,80.0,2024.0
+LTIM,IT Services,pat_cagr_5y_pct,24.775129058601,100.0,2024.0
+TCS,IT Services,pat_cagr_5y_pct,7.871172131953608,40.0,2024.0
+TECHM,IT Services,pat_cagr_5y_pct,-10.985163688218591,20.0,2024.0
+HCLTECH,IT Services,earnings_per_share,58.0,40.0,2024.0
+INFY,IT Services,earnings_per_share,63.0,60.0,2024.0
+LTIM,IT Services,earnings_per_share,155.0,100.0,2024.0
+TCS,IT Services,earnings_per_share,127.0,80.0,2024.0
+TECHM,IT Services,earnings_per_share,24.0,20.0,2024.0
+HCLTECH,IT Services,book_value_per_share_proxy,126.841620626151,60.0,2024.0
+INFY,IT Services,book_value_per_share_proxy,43.65974903474904,20.0,2024.0
+LTIM,IT Services,book_value_per_share_proxy,702.5,100.0,2024.0
+TCS,IT Services,book_value_per_share_proxy,280.3729281767956,80.0,2024.0
+TECHM,IT Services,book_value_per_share_proxy,59.83257918552036,40.0,2024.0
+HCLTECH,IT Services,dividend_payout_ratio_pct,90.0,75.0,2024.0
+LTIM,IT Services,dividend_payout_ratio_pct,42.0,25.0,2024.0
+TCS,IT Services,dividend_payout_ratio_pct,58.0,50.0,2024.0
+TECHM,IT Services,dividend_payout_ratio_pct,150.0,100.0,2024.0
+HDFCLIFE,Life Insurance,net_profit_margin_pct,1.5510139729213062,75.0,2024.0
+ICICIPRULI,Life Insurance,net_profit_margin_pct,0.942341125272681,25.0,2024.0
+LICI,Life Insurance,net_profit_margin_pct,4.836600998148862,100.0,2024.0
+SBILIFE,Life Insurance,net_profit_margin_pct,1.4349789374791648,50.0,2024.0
+HDFCLIFE,Life Insurance,operating_profit_margin_pct,99.47675449833469,75.0,2024.0
+ICICIPRULI,Life Insurance,operating_profit_margin_pct,102.02531365231933,100.0,2024.0
+LICI,Life Insurance,operating_profit_margin_pct,3.87474201090824,50.0,2024.0
+SBILIFE,Life Insurance,operating_profit_margin_pct,0.186380580052732,25.0,2024.0
+HDFCLIFE,Life Insurance,return_on_equity_pct,10.087157139195078,50.0,2024.0
+ICICIPRULI,Life Insurance,return_on_equity_pct,7.352687057197166,25.0,2024.0
+LICI,Life Insurance,return_on_equity_pct,41.906244558927455,100.0,2024.0
+SBILIFE,Life Insurance,return_on_equity_pct,11.648932898702258,75.0,2024.0
+HDFCLIFE,Life Insurance,return_on_assets_pct,0.4674021172662618,75.0,2024.0
+ICICIPRULI,Life Insurance,return_on_assets_pct,0.2603736407639258,25.0,2024.0
+LICI,Life Insurance,return_on_assets_pct,0.7154246255674604,100.0,2024.0
+SBILIFE,Life Insurance,return_on_assets_pct,0.4222993687806161,50.0,2024.0
+HDFCLIFE,Life Insurance,return_on_capital_employed_pct,609.3512142080465,75.0,2024.0
+ICICIPRULI,Life Insurance,return_on_capital_employed_pct,795.0838085363746,100.0,2024.0
+LICI,Life Insurance,return_on_capital_employed_pct,33.091646440750864,50.0,2024.0
+SBILIFE,Life Insurance,return_on_capital_employed_pct,1.0455747585952395,25.0,2024.0
+HDFCLIFE,Life Insurance,debt_to_equity,0.0608818251730325,100.0,2024.0
+ICICIPRULI,Life Insurance,debt_to_equity,0.0,37.5,2024.0
+LICI,Life Insurance,debt_to_equity,0.0001024201890676,75.0,2024.0
+SBILIFE,Life Insurance,debt_to_equity,0.0,37.5,2024.0
+HDFCLIFE,Life Insurance,interest_coverage,192.2895238095238,25.0,2024.0
+ICICIPRULI,Life Insurance,interest_coverage,999.0,87.5,2024.0
+LICI,Life Insurance,interest_coverage,371.9375,50.0,2024.0
+SBILIFE,Life Insurance,interest_coverage,999.0,87.5,2024.0
+HDFCLIFE,Life Insurance,asset_turnover,0.3013526154028893,100.0,2024.0
+ICICIPRULI,Life Insurance,asset_turnover,0.2763050808045576,50.0,2024.0
+LICI,Life Insurance,asset_turnover,0.147918884737707,25.0,2024.0
+SBILIFE,Life Insurance,asset_turnover,0.2942895939103271,75.0,2024.0
+HDFCLIFE,Life Insurance,free_cash_flow_cr,-2893.0,25.0,2024.0
+ICICIPRULI,Life Insurance,free_cash_flow_cr,105.0,75.0,2024.0
+LICI,Life Insurance,free_cash_flow_cr,853.0,100.0,2024.0
+SBILIFE,Life Insurance,free_cash_flow_cr,-2099.0,50.0,2024.0
+HDFCLIFE,Life Insurance,revenue_cagr_5y_pct,21.16813430936688,75.0,2024.0
+ICICIPRULI,Life Insurance,revenue_cagr_5y_pct,16.84553965244746,50.0,2024.0
+LICI,Life Insurance,revenue_cagr_5y_pct,8.15986061977938,25.0,2024.0
+SBILIFE,Life Insurance,revenue_cagr_5y_pct,24.231614182367544,100.0,2024.0
+HDFCLIFE,Life Insurance,pat_cagr_5y_pct,4.25449161597129,50.0,2024.0
+ICICIPRULI,Life Insurance,pat_cagr_5y_pct,-5.663194189152343,25.0,2024.0
+LICI,Life Insurance,pat_cagr_5y_pct,73.17556747076097,100.0,2024.0
+SBILIFE,Life Insurance,pat_cagr_5y_pct,7.374662152227485,75.0,2024.0
+HDFCLIFE,Life Insurance,earnings_per_share,7.0,50.0,2024.0
+ICICIPRULI,Life Insurance,earnings_per_share,6.0,25.0,2024.0
+LICI,Life Insurance,earnings_per_share,66.0,100.0,2024.0
+SBILIFE,Life Insurance,earnings_per_share,19.0,75.0,2024.0
+HDFCLIFE,Life Insurance,book_value_per_share_proxy,7.25092936802974,25.0,2024.0
+ICICIPRULI,Life Insurance,book_value_per_share_proxy,8.015235457063712,50.0,2024.0
+LICI,Life Insurance,book_value_per_share_proxy,15.436679841897233,75.0,2024.0
+SBILIFE,Life Insurance,book_value_per_share_proxy,16.226546906187625,100.0,2024.0
+HDFCLIFE,Life Insurance,dividend_payout_ratio_pct,27.0,100.0,2024.0
+ICICIPRULI,Life Insurance,dividend_payout_ratio_pct,10.0,25.0,2024.0
+LICI,Life Insurance,dividend_payout_ratio_pct,15.0,75.0,2024.0
+SBILIFE,Life Insurance,dividend_payout_ratio_pct,14.0,50.0,2024.0
+BPCL,Oil & Gas,net_profit_margin_pct,5.994201967046283,40.0,2024.0
+GAIL,Oil & Gas,net_profit_margin_pct,7.433122166511544,60.0,2024.0
+IOC,Oil & Gas,net_profit_margin_pct,5.559462717942377,20.0,2024.0
+ONGC,Oil & Gas,net_profit_margin_pct,9.6552901947257,100.0,2024.0
+RELIANCE,Oil & Gas,net_profit_margin_pct,8.789365557299389,80.0,2024.0
+BPCL,Oil & Gas,operating_profit_margin_pct,9.83790949444634,40.0,2024.0
+GAIL,Oil & Gas,operating_profit_margin_pct,10.743987750322754,60.0,2024.0
+IOC,Oil & Gas,operating_profit_margin_pct,9.743776019125344,20.0,2024.0
+ONGC,Oil & Gas,operating_profit_margin_pct,17.388518015001793,80.0,2024.0
+RELIANCE,Oil & Gas,operating_profit_margin_pct,18.07459281612296,100.0,2024.0
+BPCL,Oil & Gas,return_on_equity_pct,34.832961560408776,100.0,2024.0
+GAIL,Oil & Gas,return_on_equity_pct,11.816153396413274,40.0,2024.0
+IOC,Oil & Gas,return_on_equity_pct,23.79773496686259,80.0,2024.0
+ONGC,Oil & Gas,return_on_equity_pct,16.209165540655622,60.0,2024.0
+RELIANCE,Oil & Gas,return_on_equity_pct,9.64301796442261,20.0,2024.0
+BPCL,Oil & Gas,return_on_assets_pct,12.71576415782148,100.0,2024.0
+GAIL,Oil & Gas,return_on_assets_pct,7.67739884796378,60.0,2024.0
+IOC,Oil & Gas,return_on_assets_pct,8.457800160686642,80.0,2024.0
+ONGC,Oil & Gas,return_on_assets_pct,7.536951534686528,40.0,2024.0
+RELIANCE,Oil & Gas,return_on_assets_pct,4.353423982837526,20.0,2024.0
+BPCL,Oil & Gas,return_on_capital_employed_pct,27.436979733505893,100.0,2024.0
+GAIL,Oil & Gas,return_on_capital_employed_pct,10.287990255314623,40.0,2024.0
+IOC,Oil & Gas,return_on_capital_employed_pct,17.339246505611037,80.0,2024.0
+ONGC,Oil & Gas,return_on_capital_employed_pct,13.622061000616076,60.0,2024.0
+RELIANCE,Oil & Gas,return_on_capital_employed_pct,9.487518033472163,20.0,2024.0
+BPCL,Oil & Gas,debt_to_equity,0.763604295274161,80.0,2024.0
+GAIL,Oil & Gas,debt_to_equity,0.2342469185886957,20.0,2024.0
+IOC,Oil & Gas,debt_to_equity,0.9009461530827167,100.0,2024.0
+ONGC,Oil & Gas,debt_to_equity,0.5435766274171389,60.0,2024.0
+RELIANCE,Oil & Gas,debt_to_equity,0.4362971396773213,40.0,2024.0
+BPCL,Oil & Gas,interest_coverage,11.355507351168956,60.0,2024.0
+GAIL,Oil & Gas,interest_coverage,23.624478442280942,100.0,2024.0
+IOC,Oil & Gas,interest_coverage,10.282324578099226,40.0,2024.0
+ONGC,Oil & Gas,interest_coverage,11.361290955463998,80.0,2024.0
+RELIANCE,Oil & Gas,interest_coverage,7.728912535686478,20.0,2024.0
+BPCL,Oil & Gas,asset_turnover,2.121343963337847,100.0,2024.0
+GAIL,Oil & Gas,asset_turnover,1.0328632674103992,60.0,2024.0
+IOC,Oil & Gas,asset_turnover,1.5213340910426996,80.0,2024.0
+ONGC,Oil & Gas,asset_turnover,0.7806033151446515,40.0,2024.0
+RELIANCE,Oil & Gas,asset_turnover,0.4953058277593309,20.0,2024.0
+BPCL,Oil & Gas,free_cash_flow_cr,25415.0,40.0,2024.0
+GAIL,Oil & Gas,free_cash_flow_cr,4360.0,20.0,2024.0
+IOC,Oil & Gas,free_cash_flow_cr,39635.0,60.0,2024.0
+ONGC,Oil & Gas,free_cash_flow_cr,42060.0,80.0,2024.0
+RELIANCE,Oil & Gas,free_cash_flow_cr,45207.0,100.0,2024.0
+BPCL,Oil & Gas,revenue_cagr_5y_pct,8.483226324685255,60.0,2024.0
+GAIL,Oil & Gas,revenue_cagr_5y_pct,11.825154521824269,100.0,2024.0
+IOC,Oil & Gas,revenue_cagr_5y_pct,8.008755667240486,40.0,2024.0
+ONGC,Oil & Gas,revenue_cagr_5y_pct,7.001683761214439,20.0,2024.0
+RELIANCE,Oil & Gas,revenue_cagr_5y_pct,9.606097094616972,80.0,2024.0
+BPCL,Oil & Gas,pat_cagr_5y_pct,25.790698729746552,100.0,2024.0
+GAIL,Oil & Gas,pat_cagr_5y_pct,8.608876760374562,20.0,2024.0
+IOC,Oil & Gas,pat_cagr_5y_pct,20.099089966731643,80.0,2024.0
+ONGC,Oil & Gas,pat_cagr_5y_pct,10.96639922553624,40.0,2024.0
+RELIANCE,Oil & Gas,pat_cagr_5y_pct,14.680632603495592,60.0,2024.0
+BPCL,Oil & Gas,earnings_per_share,62.0,100.0,2024.0
+GAIL,Oil & Gas,earnings_per_share,15.0,20.0,2024.0
+IOC,Oil & Gas,earnings_per_share,30.0,40.0,2024.0
+ONGC,Oil & Gas,earnings_per_share,39.0,60.0,2024.0
+RELIANCE,Oil & Gas,earnings_per_share,51.0,80.0,2024.0
+BPCL,Oil & Gas,book_value_per_share_proxy,18.04540135736017,60.0,2024.0
+GAIL,Oil & Gas,book_value_per_share_proxy,12.746615969581748,20.0,2024.0
+IOC,Oil & Gas,book_value_per_share_proxy,13.169183851292477,40.0,2024.0
+ONGC,Oil & Gas,book_value_per_share_proxy,56.00572337042925,80.0,2024.0
+RELIANCE,Oil & Gas,book_value_per_share_proxy,121.11336092225837,100.0,2024.0
+BPCL,Oil & Gas,dividend_payout_ratio_pct,33.0,60.0,2024.0
+GAIL,Oil & Gas,dividend_payout_ratio_pct,37.0,80.0,2024.0
+IOC,Oil & Gas,dividend_payout_ratio_pct,40.0,100.0,2024.0
+ONGC,Oil & Gas,dividend_payout_ratio_pct,31.0,40.0,2024.0
+RELIANCE,Oil & Gas,dividend_payout_ratio_pct,10.0,20.0,2024.0
+CIPLA,Pharmaceuticals,net_profit_margin_pct,16.11701714906495,40.0,2024.0
+DIVISLAB,Pharmaceuticals,net_profit_margin_pct,20.39515615041428,100.0,2024.0
+DRREDDY,Pharmaceuticals,net_profit_margin_pct,19.9136053693192,80.0,2024.0
+SUNPHARMA,Pharmaceuticals,net_profit_margin_pct,19.815658700538176,60.0,2024.0
+TORNTPHARM,Pharmaceuticals,net_profit_margin_pct,15.436241610738255,20.0,2024.0
+CIPLA,Pharmaceuticals,operating_profit_margin_pct,75.59168153953597,100.0,2024.0
+DIVISLAB,Pharmaceuticals,operating_profit_margin_pct,28.17080943275972,40.0,2024.0
+DRREDDY,Pharmaceuticals,operating_profit_margin_pct,28.321016743422227,60.0,2024.0
+SUNPHARMA,Pharmaceuticals,operating_profit_margin_pct,26.84289749881436,20.0,2024.0
+TORNTPHARM,Pharmaceuticals,operating_profit_margin_pct,31.3944817300522,80.0,2024.0
+CIPLA,Pharmaceuticals,return_on_equity_pct,14.645841413108624,60.0,2024.0
+DIVISLAB,Pharmaceuticals,return_on_equity_pct,11.66435809579354,20.0,2024.0
+DRREDDY,Pharmaceuticals,return_on_equity_pct,18.140427330970116,80.0,2024.0
+SUNPHARMA,Pharmaceuticals,return_on_equity_pct,13.90436229472618,40.0,2024.0
+TORNTPHARM,Pharmaceuticals,return_on_equity_pct,22.068230277185503,100.0,2024.0
+CIPLA,Pharmaceuticals,return_on_assets_pct,11.986726302120909,100.0,2024.0
+DIVISLAB,Pharmaceuticals,return_on_assets_pct,10.265622994995509,20.0,2024.0
+DRREDDY,Pharmaceuticals,return_on_assets_pct,11.937168293100497,80.0,2024.0
+SUNPHARMA,Pharmaceuticals,return_on_assets_pct,10.906078351264242,40.0,2024.0
+TORNTPHARM,Pharmaceuticals,return_on_assets_pct,10.975609756097562,60.0,2024.0
+CIPLA,Pharmaceuticals,return_on_capital_employed_pct,63.94671107410491,100.0,2024.0
+DIVISLAB,Pharmaceuticals,return_on_capital_employed_pct,13.347905282331512,20.0,2024.0
+DRREDDY,Pharmaceuticals,return_on_capital_employed_pct,18.15296463781142,60.0,2024.0
+SUNPHARMA,Pharmaceuticals,return_on_capital_employed_pct,14.592603958876785,40.0,2024.0
+TORNTPHARM,Pharmaceuticals,return_on_capital_employed_pct,24.078254326561325,80.0,2024.0
+CIPLA,Pharmaceuticals,debt_to_equity,0.0162535697916299,40.0,2024.0
+DIVISLAB,Pharmaceuticals,debt_to_equity,0.0005832179047896,20.0,2024.0
+DRREDDY,Pharmaceuticals,debt_to_equity,0.1578587921558424,80.0,2024.0
+SUNPHARMA,Pharmaceuticals,debt_to_equity,0.0372133400853649,60.0,2024.0
+TORNTPHARM,Pharmaceuticals,debt_to_equity,0.4168443496801706,100.0,2024.0
+CIPLA,Pharmaceuticals,interest_coverage,35.33876811594203,40.0,2024.0
+DIVISLAB,Pharmaceuticals,interest_coverage,636.25,100.0,2024.0
+DRREDDY,Pharmaceuticals,interest_coverage,51.707602339181285,60.0,2024.0
+SUNPHARMA,Pharmaceuticals,interest_coverage,58.33193277310925,80.0,2024.0
+TORNTPHARM,Pharmaceuticals,interest_coverage,9.926553672316384,20.0,2024.0
+CIPLA,Pharmaceuticals,asset_turnover,0.7437310633386236,100.0,2024.0
+DIVISLAB,Pharmaceuticals,asset_turnover,0.5033363274733735,20.0,2024.0
+DRREDDY,Pharmaceuticals,asset_turnover,0.5994478685156651,60.0,2024.0
+SUNPHARMA,Pharmaceuticals,asset_turnover,0.5503767760679105,40.0,2024.0
+TORNTPHARM,Pharmaceuticals,asset_turnover,0.7110286320254506,80.0,2024.0
+CIPLA,Pharmaceuticals,free_cash_flow_cr,1152.0,60.0,2024.0
+DIVISLAB,Pharmaceuticals,free_cash_flow_cr,992.0,40.0,2024.0
+DRREDDY,Pharmaceuticals,free_cash_flow_cr,509.0,20.0,2024.0
+SUNPHARMA,Pharmaceuticals,free_cash_flow_cr,11372.0,100.0,2024.0
+TORNTPHARM,Pharmaceuticals,free_cash_flow_cr,3106.0,80.0,2024.0
+CIPLA,Pharmaceuticals,revenue_cagr_5y_pct,9.513860126378049,40.0,2024.0
+DIVISLAB,Pharmaceuticals,revenue_cagr_5y_pct,9.664930361854074,60.0,2024.0
+DRREDDY,Pharmaceuticals,revenue_cagr_5y_pct,12.639644349571988,100.0,2024.0
+SUNPHARMA,Pharmaceuticals,revenue_cagr_5y_pct,10.78116321985565,80.0,2024.0
+TORNTPHARM,Pharmaceuticals,revenue_cagr_5y_pct,6.932744476678732,20.0,2024.0
+CIPLA,Pharmaceuticals,pat_cagr_5y_pct,22.726834848000887,40.0,2024.0
+DIVISLAB,Pharmaceuticals,pat_cagr_5y_pct,3.4104521925080844,20.0,2024.0
+DRREDDY,Pharmaceuticals,pat_cagr_5y_pct,23.392504645437477,60.0,2024.0
+SUNPHARMA,Pharmaceuticals,pat_cagr_5y_pct,24.536829642931245,80.0,2024.0
+TORNTPHARM,Pharmaceuticals,pat_cagr_5y_pct,30.591457402327848,100.0,2024.0
+CIPLA,Pharmaceuticals,earnings_per_share,51.0,60.0,2024.0
+DIVISLAB,Pharmaceuticals,earnings_per_share,60.0,80.0,2024.0
+DRREDDY,Pharmaceuticals,earnings_per_share,67.0,100.0,2024.0
+SUNPHARMA,Pharmaceuticals,earnings_per_share,40.0,20.0,2024.0
+TORNTPHARM,Pharmaceuticals,earnings_per_share,49.0,40.0,2024.0
+CIPLA,Pharmaceuticals,book_value_per_share_proxy,175.08024691358025,40.0,2024.0
+DIVISLAB,Pharmaceuticals,book_value_per_share_proxy,258.811320754717,60.0,2024.0
+DRREDDY,Pharmaceuticals,book_value_per_share_proxy,370.4698795180723,100.0,2024.0
+SUNPHARMA,Pharmaceuticals,book_value_per_share_proxy,287.9791666666667,80.0,2024.0
+TORNTPHARM,Pharmaceuticals,book_value_per_share_proxy,44.40236686390533,20.0,2024.0
+CIPLA,Pharmaceuticals,dividend_payout_ratio_pct,25.0,40.0,2024.0
+DIVISLAB,Pharmaceuticals,dividend_payout_ratio_pct,50.0,80.0,2024.0
+DRREDDY,Pharmaceuticals,dividend_payout_ratio_pct,12.0,20.0,2024.0
+SUNPHARMA,Pharmaceuticals,dividend_payout_ratio_pct,34.0,60.0,2024.0
+TORNTPHARM,Pharmaceuticals,dividend_payout_ratio_pct,57.0,100.0,2024.0
+ADANIGREEN,Power & Utilities,net_profit_margin_pct,13.665943600867678,42.86,2024.0
+ADANIPOWER,Power & Utilities,net_profit_margin_pct,41.36759945184802,85.71,2024.0
+JSWENERGY,Power & Utilities,net_profit_margin_pct,15.018283127285391,57.14,2024.0
+NHPC,Power & Utilities,net_profit_margin_pct,41.81893687707641,100.0,2024.0
+NTPC,Power & Utilities,net_profit_margin_pct,11.950633329785267,28.57,2024.0
+POWERGRID,Power & Utilities,net_profit_margin_pct,33.97028990249329,71.43,2024.0
+TATAPOWER,Power & Utilities,net_profit_margin_pct,6.965125551270159,14.29,2024.0
+ADANIGREEN,Power & Utilities,operating_profit_margin_pct,79.3709327548807,85.71,2024.0
+ADANIPOWER,Power & Utilities,operating_profit_margin_pct,36.20186292228556,42.86,2024.0
+JSWENERGY,Power & Utilities,operating_profit_margin_pct,46.857043357130415,57.14,2024.0
+NHPC,Power & Utilities,operating_profit_margin_pct,49.90656146179402,71.43,2024.0
+NTPC,Power & Utilities,operating_profit_margin_pct,28.82672926202094,28.57,2024.0
+POWERGRID,Power & Utilities,operating_profit_margin_pct,86.87476823070044,100.0,2024.0
+TATAPOWER,Power & Utilities,operating_profit_margin_pct,17.469771680580646,14.29,2024.0
+ADANIGREEN,Power & Utilities,return_on_equity_pct,11.913767019667173,42.86,2024.0
+ADANIPOWER,Power & Utilities,return_on_equity_pct,37.22522071701755,100.0,2024.0
+JSWENERGY,Power & Utilities,return_on_equity_pct,6.167101640985306,14.29,2024.0
+NHPC,Power & Utilities,return_on_equity_pct,10.032628458990262,28.57,2024.0
+NTPC,Power & Utilities,return_on_equity_pct,12.677094228392129,57.14,2024.0
+POWERGRID,Power & Utilities,return_on_equity_pct,16.915957897481018,85.71,2024.0
+TATAPOWER,Power & Utilities,return_on_equity_pct,12.707838479809975,71.43,2024.0
+ADANIGREEN,Power & Utilities,return_on_assets_pct,1.2823383337743492,14.29,2024.0
+ADANIPOWER,Power & Utilities,return_on_assets_pct,18.801451473136915,100.0,2024.0
+JSWENERGY,Power & Utilities,return_on_assets_pct,2.6566253927185364,28.57,2024.0
+NHPC,Power & Utilities,return_on_assets_pct,4.123626907996438,57.14,2024.0
+NTPC,Power & Utilities,return_on_assets_pct,4.333746419356805,71.43,2024.0
+POWERGRID,Power & Utilities,return_on_assets_pct,6.099954171024336,85.71,2024.0
+TATAPOWER,Power & Utilities,return_on_assets_pct,2.9490801350513336,42.86,2024.0
+ADANIGREEN,Power & Utilities,return_on_capital_employed_pct,6.941773709714637,42.86,2024.0
+ADANIPOWER,Power & Utilities,return_on_capital_employed_pct,15.264950511963612,100.0,2024.0
+JSWENERGY,Power & Utilities,return_on_capital_employed_pct,6.373249014007889,28.57,2024.0
+NHPC,Power & Utilities,return_on_capital_employed_pct,4.8723086647211495,14.29,2024.0
+NTPC,Power & Utilities,return_on_capital_employed_pct,8.592160007409557,71.43,2024.0
+POWERGRID,Power & Utilities,return_on_capital_employed_pct,12.454514534382586,85.71,2024.0
+TATAPOWER,Power & Utilities,return_on_capital_employed_pct,7.553753505663413,57.14,2024.0
+ADANIGREEN,Power & Utilities,debt_to_equity,6.375756429652042,100.0,2024.0
+ADANIPOWER,Power & Utilities,debt_to_equity,0.6738570969010258,14.29,2024.0
+JSWENERGY,Power & Utilities,debt_to_equity,1.1030352865467803,42.86,2024.0
+NHPC,Power & Utilities,debt_to_equity,0.8520760168372812,28.57,2024.0
+NTPC,Power & Utilities,debt_to_equity,1.438201245602358,71.43,2024.0
+POWERGRID,Power & Utilities,debt_to_equity,1.331378107993613,57.14,2024.0
+TATAPOWER,Power & Utilities,debt_to_equity,1.7314133016627078,85.71,2024.0
+ADANIGREEN,Power & Utilities,interest_coverage,1.713943268078306,14.29,2024.0
+ADANIPOWER,Power & Utilities,interest_coverage,8.297225501770956,85.71,2024.0
+JSWENERGY,Power & Utilities,interest_coverage,2.8514369215781783,28.57,2024.0
+NHPC,Power & Utilities,interest_coverage,11.24342105263158,100.0,2024.0
+NTPC,Power & Utilities,interest_coverage,4.604991464108609,71.43,2024.0
+POWERGRID,Power & Utilities,interest_coverage,4.60298643565485,57.14,2024.0
+TATAPOWER,Power & Utilities,interest_coverage,3.054392402331103,42.86,2024.0
+ADANIGREEN,Power & Utilities,asset_turnover,0.0938345987095198,14.29,2024.0
+ADANIPOWER,Power & Utilities,asset_turnover,0.4544970392836511,100.0,2024.0
+JSWENERGY,Power & Utilities,asset_turnover,0.1768927493377687,42.86,2024.0
+NHPC,Power & Utilities,asset_turnover,0.0986066891207092,28.57,2024.0
+NTPC,Power & Utilities,asset_turnover,0.3626373849623143,71.43,2024.0
+POWERGRID,Power & Utilities,asset_turnover,0.1795673274656576,57.14,2024.0
+TATAPOWER,Power & Utilities,asset_turnover,0.4234066009784331,85.71,2024.0
+ADANIGREEN,Power & Utilities,free_cash_flow_cr,-13347.0,14.29,2024.0
+ADANIPOWER,Power & Utilities,free_cash_flow_cr,17651.0,85.71,2024.0
+JSWENERGY,Power & Utilities,free_cash_flow_cr,-1963.0,28.57,2024.0
+NHPC,Power & Utilities,free_cash_flow_cr,970.0,42.86,2024.0
+NTPC,Power & Utilities,free_cash_flow_cr,8644.0,71.43,2024.0
+POWERGRID,Power & Utilities,free_cash_flow_cr,24176.0,100.0,2024.0
+TATAPOWER,Power & Utilities,free_cash_flow_cr,3569.0,57.14,2024.0
+ADANIGREEN,Power & Utilities,revenue_cagr_5y_pct,34.976172926382844,100.0,2024.0
+ADANIPOWER,Power & Utilities,revenue_cagr_5y_pct,16.086096410440966,85.71,2024.0
+JSWENERGY,Power & Utilities,revenue_cagr_5y_pct,4.679956053916468,28.57,2024.0
+NHPC,Power & Utilities,revenue_cagr_5y_pct,1.404917217643753,14.29,2024.0
+NTPC,Power & Utilities,revenue_cagr_5y_pct,12.222309654337993,57.14,2024.0
+POWERGRID,Power & Utilities,revenue_cagr_5y_pct,5.510261937513361,42.86,2024.0
+TATAPOWER,Power & Utilities,revenue_cagr_5y_pct,15.511158201876407,71.43,2024.0
+JSWENERGY,Power & Utilities,pat_cagr_5y_pct,20.322431469794555,100.0,2024.0
+NHPC,Power & Utilities,pat_cagr_5y_pct,7.269596517101484,20.0,2024.0
+NTPC,Power & Utilities,pat_cagr_5y_pct,8.735165684951163,40.0,2024.0
+POWERGRID,Power & Utilities,pat_cagr_5y_pct,9.189188268434778,60.0,2024.0
+TATAPOWER,Power & Utilities,pat_cagr_5y_pct,10.431728917459004,80.0,2024.0
+ADANIGREEN,Power & Utilities,earnings_per_share,7.0,28.57,2024.0
+ADANIPOWER,Power & Utilities,earnings_per_share,54.0,100.0,2024.0
+JSWENERGY,Power & Utilities,earnings_per_share,10.0,42.86,2024.0
+NHPC,Power & Utilities,earnings_per_share,4.0,14.29,2024.0
+NTPC,Power & Utilities,earnings_per_share,21.0,85.71,2024.0
+POWERGRID,Power & Utilities,earnings_per_share,17.0,71.43,2024.0
+TATAPOWER,Power & Utilities,earnings_per_share,12.0,57.14,2024.0
+ADANIGREEN,Power & Utilities,book_value_per_share_proxy,6.6767676767676765,28.57,2024.0
+ADANIPOWER,Power & Utilities,book_value_per_share_proxy,14.507129893699767,57.14,2024.0
+JSWENERGY,Power & Utilities,book_value_per_share_proxy,16.02922636103152,71.43,2024.0
+NHPC,Power & Utilities,book_value_per_share_proxy,3.996913887506222,14.29,2024.0
+NTPC,Power & Utilities,book_value_per_share_proxy,17.352995771888214,85.71,2024.0
+POWERGRID,Power & Utilities,book_value_per_share_proxy,9.897967960434364,42.86,2024.0
+TATAPOWER,Power & Utilities,book_value_per_share_proxy,105.25,100.0,2024.0
+ADANIGREEN,Power & Utilities,dividend_payout_ratio_pct,0.0,21.43,2024.0
+ADANIPOWER,Power & Utilities,dividend_payout_ratio_pct,0.0,21.43,2024.0
+JSWENERGY,Power & Utilities,dividend_payout_ratio_pct,19.0,57.14,2024.0
+NHPC,Power & Utilities,dividend_payout_ratio_pct,53.0,85.71,2024.0
+NTPC,Power & Utilities,dividend_payout_ratio_pct,36.0,71.43,2024.0
+POWERGRID,Power & Utilities,dividend_payout_ratio_pct,67.0,100.0,2024.0
+TATAPOWER,Power & Utilities,dividend_payout_ratio_pct,17.0,42.86,2024.0
+AXISBANK,Private Banks,net_profit_margin_pct,22.73130411725443,40.0,2024.0
+HDFCBANK,Private Banks,net_profit_margin_pct,23.07288232992184,60.0,2024.0
+ICICIBANK,Private Banks,net_profit_margin_pct,28.8880112339828,80.0,2024.0
+INDUSINDBK,Private Banks,net_profit_margin_pct,19.56369677362945,20.0,2024.0
+KOTAKBANK,Private Banks,net_profit_margin_pct,32.386151466116615,100.0,2024.0
+AXISBANK,Private Banks,operating_profit_margin_pct,34.69264599658038,20.0,2024.0
+HDFCBANK,Private Banks,operating_profit_margin_pct,61.41252040373843,60.0,2024.0
+ICICIBANK,Private Banks,operating_profit_margin_pct,62.41380175029464,80.0,2024.0
+INDUSINDBK,Private Banks,operating_profit_margin_pct,38.55469091544986,40.0,2024.0
+KOTAKBANK,Private Banks,operating_profit_margin_pct,83.66733645109092,100.0,2024.0
+AXISBANK,Private Banks,return_on_equity_pct,15.832712405189048,80.0,2024.0
+HDFCBANK,Private Banks,return_on_equity_pct,14.33974005030719,60.0,2024.0
+ICICIBANK,Private Banks,return_on_equity_pct,17.99027109750765,100.0,2024.0
+INDUSINDBK,Private Banks,return_on_equity_pct,14.252273197764223,40.0,2024.0
+KOTAKBANK,Private Banks,return_on_equity_pct,14.013018188532914,20.0,2024.0
+AXISBANK,Private Banks,return_on_assets_pct,1.6374892227113125,40.0,2024.0
+HDFCBANK,Private Banks,return_on_assets_pct,1.6238920508541277,20.0,2024.0
+ICICIBANK,Private Banks,return_on_assets_pct,1.9492289334082888,80.0,2024.0
+INDUSINDBK,Private Banks,return_on_assets_pct,1.7380834474254032,60.0,2024.0
+KOTAKBANK,Private Banks,return_on_assets_pct,2.372513081844081,100.0,2024.0
+AXISBANK,Private Banks,return_on_capital_employed_pct,2.5207167817120824,20.0,2024.0
+HDFCBANK,Private Banks,return_on_capital_employed_pct,4.801033923800871,60.0,2024.0
+ICICIBANK,Private Banks,return_on_capital_employed_pct,5.11888931768417,80.0,2024.0
+INDUSINDBK,Private Banks,return_on_capital_employed_pct,3.475962286021232,40.0,2024.0
+KOTAKBANK,Private Banks,return_on_capital_employed_pct,7.113136699541475,100.0,2024.0
+AXISBANK,Private Banks,debt_to_equity,8.249122739980766,100.0,2024.0
+HDFCBANK,Private Banks,debt_to_equity,6.808786667718385,60.0,2024.0
+ICICIBANK,Private Banks,debt_to_equity,6.445624336310825,40.0,2024.0
+INDUSINDBK,Private Banks,debt_to_equity,6.885742949503957,80.0,2024.0
+KOTAKBANK,Private Banks,debt_to_equity,4.003739266919029,20.0,2024.0
+AXISBANK,Private Banks,interest_coverage,1.691203992514036,80.0,2024.0
+HDFCBANK,Private Banks,interest_coverage,1.4007688224792112,60.0,2024.0
+ICICIBANK,Private Banks,interest_coverage,1.3009461331381824,40.0,2024.0
+INDUSINDBK,Private Banks,interest_coverage,1.8795270558159352,100.0,2024.0
+KOTAKBANK,Private Banks,interest_coverage,1.2363751084470385,20.0,2024.0
+AXISBANK,Private Banks,asset_turnover,0.0720367478374617,60.0,2024.0
+HDFCBANK,Private Banks,asset_turnover,0.0703809791786698,40.0,2024.0
+ICICIBANK,Private Banks,asset_turnover,0.0674753591592102,20.0,2024.0
+INDUSINDBK,Private Banks,asset_turnover,0.0888422810646003,100.0,2024.0
+KOTAKBANK,Private Banks,asset_turnover,0.0732570242045053,80.0,2024.0
+AXISBANK,Private Banks,free_cash_flow_cr,-14556.0,40.0,2024.0
+HDFCBANK,Private Banks,free_cash_flow_cr,35669.0,100.0,2024.0
+ICICIBANK,Private Banks,free_cash_flow_cr,12547.0,80.0,2024.0
+INDUSINDBK,Private Banks,free_cash_flow_cr,-17468.0,20.0,2024.0
+KOTAKBANK,Private Banks,free_cash_flow_cr,6766.0,60.0,2024.0
+AXISBANK,Private Banks,revenue_cagr_5y_pct,14.74358712051438,40.0,2024.0
+HDFCBANK,Private Banks,revenue_cagr_5y_pct,21.95098428169122,100.0,2024.0
+ICICIBANK,Private Banks,revenue_cagr_5y_pct,17.25086850260209,80.0,2024.0
+INDUSINDBK,Private Banks,revenue_cagr_5y_pct,15.495613083358029,60.0,2024.0
+KOTAKBANK,Private Banks,revenue_cagr_5y_pct,13.51960376324537,20.0,2024.0
+AXISBANK,Private Banks,pat_cagr_5y_pct,39.67228711897934,80.0,2024.0
+HDFCBANK,Private Banks,pat_cagr_5y_pct,23.865063572879077,60.0,2024.0
+ICICIBANK,Private Banks,pat_cagr_5y_pct,51.94877118224903,100.0,2024.0
+INDUSINDBK,Private Banks,pat_cagr_5y_pct,22.07746495394836,40.0,2024.0
+KOTAKBANK,Private Banks,pat_cagr_5y_pct,20.38200065626572,20.0,2024.0
+AXISBANK,Private Banks,earnings_per_share,81.0,40.0,2024.0
+HDFCBANK,Private Banks,earnings_per_share,84.0,60.0,2024.0
+ICICIBANK,Private Banks,earnings_per_share,63.0,20.0,2024.0
+INDUSINDBK,Private Banks,earnings_per_share,115.0,100.0,2024.0
+KOTAKBANK,Private Banks,earnings_per_share,92.0,80.0,2024.0
+AXISBANK,Private Banks,book_value_per_share_proxy,254.4943273905997,80.0,2024.0
+HDFCBANK,Private Banks,book_value_per_share_proxy,600.521052631579,100.0,2024.0
+ICICIBANK,Private Banks,book_value_per_share_proxy,182.308896797153,60.0,2024.0
+INDUSINDBK,Private Banks,book_value_per_share_proxy,80.7159383033419,20.0,2024.0
+KOTAKBANK,Private Banks,book_value_per_share_proxy,130.75653923541248,40.0,2024.0
+AXISBANK,Private Banks,dividend_payout_ratio_pct,1.0,20.0,2024.0
+HDFCBANK,Private Banks,dividend_payout_ratio_pct,23.0,100.0,2024.0
+ICICIBANK,Private Banks,dividend_payout_ratio_pct,16.0,80.0,2024.0
+INDUSINDBK,Private Banks,dividend_payout_ratio_pct,14.0,60.0,2024.0
+KOTAKBANK,Private Banks,dividend_payout_ratio_pct,2.0,40.0,2024.0
+BANKBARODA,Public Sector Banks,net_profit_margin_pct,15.93948250956673,100.0,2024.0
+CANBK,Public Sector Banks,net_profit_margin_pct,13.935160470145403,50.0,2024.0
+PNB,Public Sector Banks,net_profit_margin_pct,8.395910695456838,25.0,2024.0
+SBIN,Public Sector Banks,net_profit_margin_pct,15.83441297482405,75.0,2024.0
+BANKBARODA,Public Sector Banks,operating_profit_margin_pct,37.4889127294537,66.67,2024.0
+CANBK,Public Sector Banks,operating_profit_margin_pct,41.75390656810141,100.0,2024.0
+SBIN,Public Sector Banks,operating_profit_margin_pct,-13.729168991026642,33.33,2024.0
+BANKBARODA,Public Sector Banks,return_on_equity_pct,15.761863790899902,33.33,2024.0
+CANBK,Public Sector Banks,return_on_equity_pct,16.716051794688113,66.67,2024.0
+PNB,Public Sector Banks,return_on_equity_pct,61.320565191187306,100.0,2024.0
+BANKBARODA,Public Sector Banks,return_on_assets_pct,1.1402758683204666,66.67,2024.0
+CANBK,Public Sector Banks,return_on_assets_pct,1.0033107103630057,33.33,2024.0
+PNB,Public Sector Banks,return_on_assets_pct,12.652858189053626,100.0,2024.0
+BANKBARODA,Public Sector Banks,return_on_capital_employed_pct,2.712278690337432,50.0,2024.0
+CANBK,Public Sector Banks,return_on_capital_employed_pct,3.0948490094827803,100.0,2024.0
+BANKBARODA,Public Sector Banks,debt_to_equity,12.143718727289434,66.67,2024.0
+CANBK,Public Sector Banks,debt_to_equity,14.867419925542425,100.0,2024.0
+PNB,Public Sector Banks,debt_to_equity,3.684256345007701,33.33,2024.0
+BANKBARODA,Public Sector Banks,interest_coverage,1.8967477242617208,66.67,2024.0
+CANBK,Public Sector Banks,interest_coverage,1.6106611743349857,33.33,2024.0
+SBIN,Public Sector Banks,interest_coverage,999.0,100.0,2024.0
+BANKBARODA,Public Sector Banks,asset_turnover,0.0715378223625568,33.33,2024.0
+CANBK,Public Sector Banks,asset_turnover,0.0719985042520674,66.67,2024.0
+PNB,Public Sector Banks,asset_turnover,1.5070262950629396,100.0,2024.0
+BANKBARODA,Public Sector Banks,free_cash_flow_cr,-7559.0,50.0,2024.0
+CANBK,Public Sector Banks,free_cash_flow_cr,13296.0,75.0,2024.0
+PNB,Public Sector Banks,free_cash_flow_cr,-29445.0,25.0,2024.0
+SBIN,Public Sector Banks,free_cash_flow_cr,18156.0,100.0,2024.0
+BANKBARODA,Public Sector Banks,revenue_cagr_5y_pct,17.477297665890944,75.0,2024.0
+CANBK,Public Sector Banks,revenue_cagr_5y_pct,18.17561078322378,100.0,2024.0
+PNB,Public Sector Banks,revenue_cagr_5y_pct,15.902076009106024,50.0,2024.0
+SBIN,Public Sector Banks,revenue_cagr_5y_pct,11.63380022632805,25.0,2024.0
+BANKBARODA,Public Sector Banks,pat_cagr_5y_pct,74.50588066551305,33.33,2024.0
+CANBK,Public Sector Banks,pat_cagr_5y_pct,85.7752850068174,100.0,2024.0
+SBIN,Public Sector Banks,pat_cagr_5y_pct,83.4069542329295,66.67,2024.0
+BANKBARODA,Public Sector Banks,earnings_per_share,36.0,75.0,2024.0
+CANBK,Public Sector Banks,earnings_per_share,17.0,50.0,2024.0
+PNB,Public Sector Banks,earnings_per_share,8.0,25.0,2024.0
+SBIN,Public Sector Banks,earnings_per_share,75.0,100.0,2024.0
+BANKBARODA,Public Sector Banks,book_value_per_share_proxy,115.5530888030888,100.0,2024.0
+CANBK,Public Sector Banks,book_value_per_share_proxy,50.78996692392503,33.33,2024.0
+PNB,Public Sector Banks,book_value_per_share_proxy,57.43461538461538,66.67,2024.0
+BANKBARODA,Public Sector Banks,dividend_payout_ratio_pct,21.0,100.0,2024.0
+CANBK,Public Sector Banks,dividend_payout_ratio_pct,19.0,75.0,2024.0
+PNB,Public Sector Banks,dividend_payout_ratio_pct,18.0,37.5,2024.0
+SBIN,Public Sector Banks,dividend_payout_ratio_pct,18.0,37.5,2024.0
+HINDALCO,Steel,net_profit_margin_pct,4.702216130615571,50.0,2024.0
+JINDALSTEL,Steel,net_profit_margin_pct,11.802438733764944,100.0,2024.0
+JSWSTEEL,Steel,net_profit_margin_pct,5.127252779904689,75.0,2024.0
+TATASTEEL,Steel,net_profit_margin_pct,-2.1425049417247384,25.0,2024.0
+HINDALCO,Steel,operating_profit_margin_pct,88.94620349876368,100.0,2024.0
+JINDALSTEL,Steel,operating_profit_margin_pct,20.260555268697622,75.0,2024.0
+JSWSTEEL,Steel,operating_profit_margin_pct,16.089162657280323,50.0,2024.0
+TATASTEEL,Steel,operating_profit_margin_pct,9.70803461170916,25.0,2024.0
+HINDALCO,Steel,return_on_equity_pct,8.816941029381121,50.0,2024.0
+JINDALSTEL,Steel,return_on_equity_pct,12.5536004731628,100.0,2024.0
+JSWSTEEL,Steel,return_on_equity_pct,11.263274169658324,75.0,2024.0
+TATASTEEL,Steel,return_on_equity_pct,-5.44665934529158,25.0,2024.0
+HINDALCO,Steel,return_on_assets_pct,4.025544667491199,75.0,2024.0
+JINDALSTEL,Steel,return_on_assets_pct,7.180050984040304,100.0,2024.0
+JSWSTEEL,Steel,return_on_assets_pct,3.848298222740685,50.0,2024.0
+TATASTEEL,Steel,return_on_assets_pct,-1.7483202238989322,25.0,2024.0
+HINDALCO,Steel,return_on_capital_employed_pct,104.78837255514236,100.0,2024.0
+JINDALSTEL,Steel,return_on_capital_employed_pct,11.42291083009581,50.0,2024.0
+JSWSTEEL,Steel,return_on_capital_employed_pct,11.424961697651552,75.0,2024.0
+TATASTEEL,Steel,return_on_capital_employed_pct,6.524250945715658,25.0,2024.0
+HINDALCO,Steel,debt_to_equity,0.5292682503299299,50.0,2024.0
+JINDALSTEL,Steel,debt_to_equity,0.3647155742379755,25.0,2024.0
+JSWSTEEL,Steel,debt_to_equity,1.1957171189717068,100.0,2024.0
+TATASTEEL,Steel,debt_to_equity,1.1025547161857854,75.0,2024.0
+HINDALCO,Steel,interest_coverage,126.46543778801843,100.0,2024.0
+JINDALSTEL,Steel,interest_coverage,8.004636785162287,75.0,2024.0
+JSWSTEEL,Steel,interest_coverage,3.659099321406539,50.0,2024.0
+TATASTEEL,Steel,interest_coverage,2.16342567927544,25.0,2024.0
+HINDALCO,Steel,asset_turnover,0.856095201852028,100.0,2024.0
+JINDALSTEL,Steel,asset_turnover,0.6083531671720772,25.0,2024.0
+JSWSTEEL,Steel,asset_turnover,0.7505575379125781,50.0,2024.0
+TATASTEEL,Steel,asset_turnover,0.8160168921204525,75.0,2024.0
+HINDALCO,Steel,free_cash_flow_cr,9789.0,100.0,2024.0
+JINDALSTEL,Steel,free_cash_flow_cr,-2336.0,50.0,2024.0
+JSWSTEEL,Steel,free_cash_flow_cr,-2389.0,25.0,2024.0
+TATASTEEL,Steel,free_cash_flow_cr,6048.0,75.0,2024.0
+HINDALCO,Steel,revenue_cagr_5y_pct,10.592433818985914,75.0,2024.0
+JINDALSTEL,Steel,revenue_cagr_5y_pct,1.402831094774171,25.0,2024.0
+JSWSTEEL,Steel,revenue_cagr_5y_pct,15.604695052452788,100.0,2024.0
+TATASTEEL,Steel,revenue_cagr_5y_pct,7.766224835881497,50.0,2024.0
+HINDALCO,Steel,pat_cagr_5y_pct,13.06871230695661,100.0,2024.0
+JSWSTEEL,Steel,pat_cagr_5y_pct,3.585216043903361,50.0,2024.0
+HINDALCO,Steel,earnings_per_share,45.0,75.0,2024.0
+JINDALSTEL,Steel,earnings_per_share,58.0,100.0,2024.0
+JSWSTEEL,Steel,earnings_per_share,36.0,50.0,2024.0
+TATASTEEL,Steel,earnings_per_share,-4.0,25.0,2024.0
+HINDALCO,Steel,book_value_per_share_proxy,518.8108108108108,100.0,2024.0
+JINDALSTEL,Steel,book_value_per_share_proxy,468.7227722772277,75.0,2024.0
+JSWSTEEL,Steel,book_value_per_share_proxy,261.2,50.0,2024.0
+TATASTEEL,Steel,book_value_per_share_proxy,72.29109863672815,25.0,2024.0
+HINDALCO,Steel,dividend_payout_ratio_pct,8.0,75.0,2024.0
+JINDALSTEL,Steel,dividend_payout_ratio_pct,3.0,50.0,2024.0
+JSWSTEEL,Steel,dividend_payout_ratio_pct,25.0,100.0,2024.0
+TATASTEEL,Steel,dividend_payout_ratio_pct,-101.0,25.0,2024.0

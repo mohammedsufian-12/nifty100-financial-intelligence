@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.env
+nifty100_old/
+data/raw/

@@ -1,0 +1,7 @@
+table,check,count,status
+cash_flow,missing_values,8,FAIL
+companies,missing_values,9,FAIL
+documents,missing_values,52,FAIL
+financial_ratios,missing_values,170,FAIL
+profit_loss,missing_values,231,FAIL
+pros_cons,missing_values,6,FAIL
