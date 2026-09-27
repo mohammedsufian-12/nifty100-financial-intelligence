@@ -4,7 +4,7 @@ import pandas as pd
 
 DB_PATH = "nifty100.db"
 
-tables = [
+TABLES = [
     "profit_loss",
     "balance_sheet",
     "cash_flow",
@@ -14,6 +14,7 @@ tables = [
 
 
 def normalize_year(value):
+    """Convert financial year labels into a four-digit year."""
     if pd.isna(value):
         return None
 
@@ -29,26 +30,56 @@ def normalize_year(value):
     return None
 
 
-connection = sqlite3.connect(DB_PATH)
+def normalize_ticker(value):
+    """Normalize company ticker symbols."""
+    if pd.isna(value):
+        return None
 
-for table in tables:
-    df = pd.read_sql_query(
-        f"SELECT * FROM {table}",
-        connection,
-    )
+    text = str(value).strip().upper()
 
-    if "year" in df.columns:
-        df["year_normalized"] = df["year"].apply(normalize_year)
+    if not text:
+        return None
 
-        df.to_sql(
-            table,
-            connection,
-            if_exists="replace",
-            index=False,
-        )
+    for suffix in [".NS", "-EQ", ".EQ"]:
+        if text.endswith(suffix):
+            text = text[:-len(suffix)]
 
-        print(f"{table}: normalized")
+    text = text.replace(" ", "")
+    text = text.replace("-", "_")
 
-connection.close()
+    return text
 
-print("\nYEAR NORMALIZATION COMPLETE")
+
+def main():
+    """Normalize year columns in the financial tables."""
+    connection = sqlite3.connect(DB_PATH)
+
+    try:
+        for table in TABLES:
+            df = pd.read_sql_query(
+                f"SELECT * FROM {table}",
+                connection,
+            )
+
+            if "year" in df.columns:
+                df["year_normalized"] = df["year"].apply(
+                    normalize_year
+                )
+
+                df.to_sql(
+                    table,
+                    connection,
+                    if_exists="replace",
+                    index=False,
+                )
+
+                print(f"{table}: normalized")
+
+    finally:
+        connection.close()
+
+    print("\nYEAR NORMALIZATION COMPLETE")
+
+
+if __name__ == "__main__":
+    main()
