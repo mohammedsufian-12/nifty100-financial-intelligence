@@ -40,6 +40,11 @@ def format_number(value, suffix=""):
 # --------------------------------------------------
 
 st.title("📊 Nifty 100 Financial Intelligence")
+st.page_link(
+    "pages/00_Home_Overview.py",
+    label="Home Overview",
+    icon="🏠",
+)
 st.caption(
     "Company profiles, financial performance, market data "
     "and financial ratios."
