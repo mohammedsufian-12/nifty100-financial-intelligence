@@ -169,3 +169,75 @@ def test_ticker_19():
 
 def test_ticker_20():
     assert normalize_ticker("  INFY.NS  ") == "INFY"
+
+import sqlite3
+from pathlib import Path
+
+import src.etl.normalize_years as normalizer
+
+
+def test_main_normalizes_year_in_temporary_database(tmp_path, monkeypatch):
+    db_path = tmp_path / "test.db"
+    connection = sqlite3.connect(db_path)
+    connection.execute(
+        "CREATE TABLE profit_loss (company_id TEXT, year TEXT, sales REAL)"
+    )
+    connection.execute(
+        "INSERT INTO profit_loss VALUES ('ABC', 'Mar 2023', 100)"
+    )
+    connection.commit()
+    connection.close()
+
+    monkeypatch.setattr(normalizer, "DB_PATH", str(db_path))
+    monkeypatch.setattr(normalizer, "TABLES", ["profit_loss"])
+
+    normalizer.main()
+
+    connection = sqlite3.connect(db_path)
+    row = connection.execute(
+        "SELECT year, year_normalized FROM profit_loss"
+    ).fetchone()
+    connection.close()
+
+    assert row == ("Mar 2023", 2023)
+
+
+def test_main_skips_table_without_year_column(tmp_path, monkeypatch):
+    db_path = tmp_path / "test.db"
+    connection = sqlite3.connect(db_path)
+    connection.execute("CREATE TABLE companies (company_id TEXT)")
+    connection.execute("INSERT INTO companies VALUES ('ABC')")
+    connection.commit()
+    connection.close()
+
+    monkeypatch.setattr(normalizer, "DB_PATH", str(db_path))
+    monkeypatch.setattr(normalizer, "TABLES", ["companies"])
+
+    normalizer.main()
+
+    connection = sqlite3.connect(db_path)
+    columns = [
+        row[1]
+        for row in connection.execute("PRAGMA table_info(companies)")
+    ]
+    connection.close()
+
+    assert "year_normalized" not in columns
+
+
+def test_main_closes_connection_after_error(tmp_path, monkeypatch):
+    db_path = tmp_path / "test.db"
+    sqlite3.connect(db_path).close()
+
+    monkeypatch.setattr(normalizer, "DB_PATH", str(db_path))
+    monkeypatch.setattr(normalizer, "TABLES", ["missing_table"])
+
+    try:
+        normalizer.main()
+    except Exception:
+        pass
+
+    # The database file should remain accessible after the error.
+    connection = sqlite3.connect(db_path)
+    connection.execute("SELECT 1")
+    connection.close()
