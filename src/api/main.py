@@ -112,3 +112,42 @@ def get_financial_ratios(company_id: str):
         }
     finally:
         connection.close()
+
+@app.get("/companies/{company_id}/profit-loss")
+def get_profit_loss(company_id: str):
+    connection = sqlite3.connect(DB_PATH)
+    connection.row_factory = sqlite3.Row
+
+    try:
+        company = connection.execute(
+            "SELECT id FROM companies WHERE id = ?",
+            (company_id,)
+        ).fetchone()
+
+        if company is None:
+            raise HTTPException(
+                status_code=404,
+                detail="Company not found"
+            )
+
+        rows = connection.execute("""
+            SELECT *
+            FROM profit_loss
+            WHERE company_id = ?
+            ORDER BY year_normalized DESC
+        """, (company_id,)).fetchall()
+
+        records = []
+        for row in rows:
+            record = dict(row)
+            for key, value in record.items():
+                if isinstance(value, float) and not math.isfinite(value):
+                    record[key] = None
+            records.append(record)
+
+        return {
+            "company_id": company_id,
+            "records": records
+        }
+    finally:
+        connection.close()
