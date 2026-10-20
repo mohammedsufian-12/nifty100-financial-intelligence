@@ -1,5 +1,6 @@
 
 from fastapi import FastAPI
+import math
 
 app = FastAPI(
     title="Nifty 100 Financial Intelligence API",
@@ -69,5 +70,45 @@ def get_company(company_id: str):
             )
 
         return dict(row)
+    finally:
+        connection.close()
+
+@app.get("/companies/{company_id}/financial-ratios")
+def get_financial_ratios(company_id: str):
+    connection = sqlite3.connect(DB_PATH)
+    connection.row_factory = sqlite3.Row
+
+    try:
+        company = connection.execute(
+            "SELECT id FROM companies WHERE id = ?",
+            (company_id,)
+        ).fetchone()
+
+        if company is None:
+            raise HTTPException(
+                status_code=404,
+                detail="Company not found"
+            )
+
+        rows = connection.execute("""
+            SELECT *
+            FROM financial_ratios_calculated
+            WHERE company_id = ?
+            ORDER BY year_normalized DESC
+        """, (company_id,)).fetchall()
+
+        return {
+            "company_id": company_id,
+            "records": [
+    {
+        key: (
+            value if not isinstance(value, float) or math.isfinite(value)
+            else None
+        )
+        for key, value in dict(row).items()
+    }
+    for row in rows
+]
+        }
     finally:
         connection.close()
